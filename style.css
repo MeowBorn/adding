@@ -1,0 +1,40 @@
+.counter__btn {
+    background: none;
+    cursor: pointer;
+    font-size: 19px;
+    color: #007f00;
+    font-weight: 800;
+    padding: 5px 10px;
+}
+
+.counter {
+    display: flex;
+}
+
+.counter__input--wrap {
+    border: 3px solid #007f00;
+    border-radius: 10px;
+    cursor: auto;
+}
+
+input {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    color: #007f00;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+button {
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+.counter__input {
+    background-color: transparent;
+    height: 31px;
+    width: 29px;
+    text-align: center;
+}
